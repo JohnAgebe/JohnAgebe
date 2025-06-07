@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Security Operations and Threat Hunting Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/johnagebe/threat-hunting-scenario-tor)**
+- **[SOC,SIEM and HoneyNet](https://github.com/johnagebe/soc-siem-and-honeynet)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/johnagebe/threat-hunting-scenario-tor)**
 
 
