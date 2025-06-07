@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/johnagebe/threat-hunting-scenario-tor)**
 
 
-## ⚠️ Active Directory with PowerShell Home Lab Project
+## ⚠️ Active Directory Home Lab with PowerShell Project
 
 - **[Active Directory Home Lab with PowerShell](https://github.com/johnagebe/active-directory-powershell)**
 
